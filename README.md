@@ -1,6 +1,15 @@
-![Banner](https://hackmd.io/_uploads/rJOOYBxakl.png)
+![image](https://hackmd.io/_uploads/BJBh7dZa1l.png)
 
 # Welcome to HDR UK Elevate
+
+## The journey so far
+![Screenshot-2024-12-17-155613-1024x376](https://hackmd.io/_uploads/HJ-96Hlpyl.png)
+In September, HDR UK hosted the inaugural ECR Forum which welcomed a group of multidisciplinary and emerging researchers and technologists – working or studying in health data science – into one space. The forum gave us an opportunity to meet, collaborate and discuss challenges and opportunities unique to early-stage researchers. It also allowed us to learn from one another and a diverse range of speakers and workshop leaders.
+
+
+[Read our blog post](https://www.hdruk.ac.uk/news/showcasing-and-bringing-together-emerging-health-data-researchers-and-technologists/)
+
+# HDRUK Elevate 
 
 
 Through this series of events our main goal is to address what fuels successful health data research collaborations. 
@@ -14,7 +23,8 @@ ECR community often face long waits until finding the opportunity to shadow thes
 
 [Poll link](https://wall.sli.do/event/8L7KdsDuPYd4N6GwvVLwEf?section=e49fc83a-8a9a-4604-a08d-3ffea360210b)
 
-![image](https://hackmd.io/_uploads/BkaLETlp1l.png)
+![image](https://hackmd.io/_uploads/B1gZcubpye.png)
+
 
 
 # Introductions
@@ -23,16 +33,17 @@ ECR community often face long waits until finding the opportunity to shadow thes
 
 *  Fatemeh Torabi | University of Cambridge & Swansea University | My longest peer review todate have been 18 months | Fun fact: I have been doing karate for over 25 years
 
-* Elliot McClenaghan | LSHTM | 
+* Elliot McClenaghan | LSHTM | Longest peer review has been around 10 months | Fun fact: my brother is a current Olympic champion gymnast 
 
-
-
-# The journey so far
-![Screenshot-2024-12-17-155613-1024x376](https://hackmd.io/_uploads/HJ-96Hlpyl.png)
-In September, HDR UK hosted the inaugural ECR Forum which welcomed a group of multidisciplinary and emerging researchers and technologists – working or studying in health data science – into one space. The forum gave us an opportunity to meet, collaborate and discuss challenges and opportunities unique to early-stage researchers. It also allowed us to learn from one another and a diverse range of speakers and workshop leaders.
-
-
-[Read our blog post](https://www.hdruk.ac.uk/news/showcasing-and-bringing-together-emerging-health-data-researchers-and-technologists/)
+* Samana Bano
+* Cedric Burden
+* Caroline
+* Caitlin
+* Precious-Gift
+* IB
+* Kafayat Adeoye
+* Marwa Al Arab
+* Tin Oreskovic
 
 
 # ECR Elevate
@@ -71,28 +82,41 @@ In September, HDR UK hosted the inaugural ECR Forum which welcomed a group of mu
 # Research dissemination: Real-world example
 ![image](https://hackmd.io/_uploads/SJGyiLWayg.png)
 
+# Case example: Impact of COVID-19 in cystic fibrosis
+![image](https://hackmd.io/_uploads/r1h9uPZpke.png)
+[McClenaghan et al. 2020](https://www.sciencedirect.com/science/article/pii/S1569199320308778?via%3Dihub)
+
+
+
 # Publication roadmap
 ![image](https://hackmd.io/_uploads/Hyozo8ZTkg.png)
 
 # Poll
 
-[Access the pull](https://wall.sli.do/event/8L7KdsDuPYd4N6GwvVLwEf?section=e49fc83a-8a9a-4604-a08d-3ffea360210b)
+[Access the poll]![image](https://hackmd.io/_uploads/BkzyYF-6yl.png)
 
-![image](https://hackmd.io/_uploads/ryQ9JUxpkg.png)
 
 # Publication roadmap
 ![image](https://hackmd.io/_uploads/SyNEi8Z6Jx.png)
 
-# Case example: Impact of COVID-19 in cystic fibrosis
-![image](https://hackmd.io/_uploads/Bkl1aUZpkl.png)
+
+
 
 # Revisions & resubmission
-![image](https://hackmd.io/_uploads/Hy0daUZT1x.png)
+![image](https://hackmd.io/_uploads/ByHOtvZpJx.png)
+
 
 # Publication & Dissemination
+![image](https://hackmd.io/_uploads/H1WCcDZ61e.png)
 
+[Carr et al. 2022](https://pubmed.ncbi.nlm.nih.gov/35753987/)
+[Carr et al. 2022](https://pubmed.ncbi.nlm.nih.gov/33941502/)
+[CFT blogpost 2021](https://www.cysticfibrosis.org.uk/news/data-on-covid-19-and-cystic-fibrosis-one-year-on)
 
 # Resources
+
+Guide to innovative research dissemination: https://pmc.ncbi.nlm.nih.gov/articles/PMC7161944/
+Wiley resources on article writing/submission: https://authorservices.wiley.com/author-resources/Journal-Authors/Prepare/writing-resources.html
 
 ## Competing interest
 
