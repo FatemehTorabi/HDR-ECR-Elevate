@@ -5,7 +5,7 @@ This is the second talk in this series of events. You will hear from Dr. Stefan 
 
 ## Biography
 
-![SS Bio](https://hackmd.io/_uploads/HJP2mbg-ll.png)
+![image](https://hackmd.io/_uploads/rJPrjbgWxl.png)
 
 
 # HDRUK Elevate 
