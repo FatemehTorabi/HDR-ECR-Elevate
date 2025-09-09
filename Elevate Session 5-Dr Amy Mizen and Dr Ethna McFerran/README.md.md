@@ -1,8 +1,3 @@
----
-title: Welcome to HDR UK Elevate
-
----
-
 ![image](https://hackmd.io/_uploads/B1DrhMjcee.png)
 
 # Welcome to HDR UK Elevate 
